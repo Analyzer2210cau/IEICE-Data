@@ -1,0 +1,1 @@
+This algorithm explains the processsing of source code entities and computation of CR and PR sets analysis.
