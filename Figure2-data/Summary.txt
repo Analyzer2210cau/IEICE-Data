@@ -1,0 +1,1 @@
+The files in the folder contain data for drawing Figure 2. They are mainly Precission, Recall and Accuracy values recorded for different algorithms. 
