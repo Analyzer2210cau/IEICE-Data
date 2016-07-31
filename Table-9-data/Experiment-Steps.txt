@@ -1,3 +1,0 @@
-1. Import the "Eclipse-Package-Metric-2.1 file into R code
-2. Run the experiment to determine the threshold 
-3. Execute the experiment to evaluate the standard deviation and average values of defined metrics. 
